@@ -1,5 +1,5 @@
 {
-    "name": "helvete/resumable.js",
+    "name": "argo22/resumable.js",
     "description": "A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.",
     "keywords": ["javascript", "upload", "large file"],
     "homepage": "https://github.com/helvete/resumable.js",
